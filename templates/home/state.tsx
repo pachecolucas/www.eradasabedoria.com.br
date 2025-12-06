@@ -62,7 +62,7 @@ const STATE = {
       description: "Entenda o processo geral de amadurecimento dos seres humanos através de um gráfico simples e revelador",
     },
     {
-      title: "Prosperação",
+      title: "Prosperação 3D",
       subtitle: "Um projeto de vida",
       href: "https://3d.prosperacao.com.br/",
       description: "Os 4 Pilares e as 8 Áreas para construção de Comunidades de Aprendizagem para a Era da Sabedoria",
