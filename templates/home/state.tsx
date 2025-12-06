@@ -4,8 +4,7 @@ const STATE = {
       title: "Jogo da Vida",
       subtitle: "E os 4 Elementos",
       href: "https://www.youtube.com/watch?v=mgkl57C4VZc",
-      description:
-        "Palestra oferecida para a ABPp - Associação Brasileira de Psicopedagogia - em 2016 usando arquétipos dos 4 Elementos para explicar a jornada da Vida Acadêmica e Profissional",
+      description: "Palestra oferecida para a ABPp - Associação Brasileira de Psicopedagogia - em 2016 usando arquétipos dos 4 Elementos para explicar a jornada da Vida Acadêmica e Profissional",
     },
     {
       title: "Os 4 Elementos",
@@ -24,78 +23,67 @@ const STATE = {
       title: "Gerações",
       subtitle: "E os 4 Elementos",
       href: "/geracoes-e-os-quatro-elementos",
-      description:
-        "Como as Gerações obedecem ao ritmo da Nova Ordem dos 4 Elementos",
+      description: "Como as Gerações obedecem ao ritmo da Nova Ordem dos 4 Elementos",
     },
     {
       title: "Setênios",
       subtitle: "As fases da vida a cada 7 anos",
       href: "https://setenios.vercel.app/",
-      description:
-        "Uma visão esclarecedora dos ciclos da vida e o que muda a cada 7, 14 e 28 anos conforme a Nova Ordem dos 4 Elementos",
+      description: "Uma visão esclarecedora dos ciclos da vida e o que muda a cada 7, 14 e 28 anos conforme a Nova Ordem dos 4 Elementos",
     },
     {
       title: "Numerologia",
       subtitle: "O significado dos números",
       href: "/numerologia",
-      description:
-        "Um entendimento do o singificado dos números e sua relação com as fases e os 4 Elementos",
+      description: "Um entendimento do o singificado dos números e sua relação com as fases e os 4 Elementos",
     },
     {
       title: "Calculadora",
       subtitle: "Numerológica",
       href: "http://numerologo.epanel.com.br/",
-      description:
-        "Sistema online para cálculo numerológico de nomes e datas de nascimento",
+      description: "Sistema online para cálculo numerológico de nomes e datas de nascimento",
     },
     {
       title: "Auto-liderança",
       subtitle: "E a Astrologia",
       href: "/astrologia-e-auto-lideranca",
-      description:
-        "O nascimento do Líder e suas fases conforme o ritmo do zodíaco",
+      description: "O nascimento do Líder e suas fases conforme o ritmo do zodíaco",
     },
     {
       title: "História Moderna",
       subtitle: "E os 4 Elementos",
       href: "/ciclos-da-historia",
-      description:
-        "Uma síntese alquímica dos últimos 600 anos e uma previsão para os próximos 200 de acordo com a Nova Ordem dos 4 Elementos",
+      description: "Uma síntese alquímica dos últimos 600 anos e uma previsão para os próximos 200 de acordo com a Nova Ordem dos 4 Elementos",
     },
     {
       title: "Metanoia",
       subtitle: "O processo de amadurecimento",
       href: "http://metanoia2.vercel.app/",
-      description:
-        "Entenda o processo geral de amadurecimento dos seres humanos através de um gráfico simples e revelador",
+      description: "Entenda o processo geral de amadurecimento dos seres humanos através de um gráfico simples e revelador",
     },
     {
       title: "Prosperação",
       subtitle: "Um projeto de vida",
-      href: "https://prosperacao.com.br/",
-      description:
-        "Os 4 Pilares e as 8 Áreas para construção de Comunidades de Aprendizagem para a Era da Sabedoria",
+      href: "https://3d.prosperacao.com.br/",
+      description: "Os 4 Pilares e as 8 Áreas para construção de Comunidades de Aprendizagem para a Era da Sabedoria",
     },
     {
       title: "Santa Ceia",
       subtitle: "E o Ser Integral",
       href: "http://santaceia.vercel.app/",
-      description:
-        "Uma visão Astrológica, Astronômica e Neurocientífica de uma das obras mais famosas de Leonardo da Vinci",
+      description: "Uma visão Astrológica, Astronômica e Neurocientífica de uma das obras mais famosas de Leonardo da Vinci",
     },
     {
       title: "Estrela",
       subtitle: "dos Negócios",
       href: "https://estrela-dos-negocios.vercel.app/",
-      description:
-        "A Geometria dos Negócios em suas diferentes fases: ideia, projeto, negócio e movimento",
+      description: "A Geometria dos Negócios em suas diferentes fases: ideia, projeto, negócio e movimento",
     },
     {
       title: "Escada",
       subtitle: "da Liberdade",
       href: "/escada-da-liberdade",
-      description:
-        "O caminho do sucesso econômico na sociedade capitalista que explica porque 90% do dinheiro se concentra na mão de 10% das pessoas e como resolver este dilema ético",
+      description: "O caminho do sucesso econômico na sociedade capitalista que explica porque 90% do dinheiro se concentra na mão de 10% das pessoas e como resolver este dilema ético",
     },
   ],
 };
